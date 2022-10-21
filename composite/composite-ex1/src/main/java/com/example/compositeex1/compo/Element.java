@@ -10,7 +10,7 @@ public class Element extends Composant{
         String tab="";
         for (int i = 0; i < level; i++) {
             tab+="--";
-            System.out.println(tab+"Operation sur l'element ("+nom+")");
         }
+        System.out.println(tab+"Operation sur l'element ("+nom+")");
     }
 }
