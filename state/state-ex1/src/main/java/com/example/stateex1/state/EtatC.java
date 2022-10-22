@@ -25,6 +25,6 @@ public class EtatC extends Etat {
 
         @Override
         public void doAction() {
-                System.out.println("Etat courant : B");
+                System.out.println("Etat courant : C");
         }
 }
